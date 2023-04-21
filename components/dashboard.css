@@ -1,0 +1,34 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 60px;
+
+}
+
+
+.heading {
+  margin: 7px;
+}
+
+.heading0{
+  margin-right: 30px;
+}
+
+#nikehead {
+  font-size: 25px;
+}
+.logo {
+  height: 30px;
+  margin-left: 3vw;
+  cursor: pointer;
+}
